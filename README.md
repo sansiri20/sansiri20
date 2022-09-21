@@ -1,6 +1,5 @@
-### Hi there! 👋😀
-
-It's Sansiri  
+### Hi there! It's *Sansiri* 👋😀
+ 
 - I'm from Bangkok, Thailand.
 - I'm a computer scientist (recently graduated 🎉) with specialization in AI/ML, Deep Learning, NLP, and Data Analytics.
 - I code 👩‍💻, read 👩‍🏫, and doodle 👩‍🎨. 
