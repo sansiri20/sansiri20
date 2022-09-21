@@ -4,7 +4,7 @@ It's Sansiri
 - I'm from Bangkok, Thailand.
 - I'm a computer scientist (recently graduated 🎉) with specialization in AI/ML, Deep Learning, NLP, and Data Analytics.
 - I code 👩‍💻, read 👩‍🏫, and doodle 👩‍🎨. 
-- I also like to explain things – the process of breaking down information into simpler and understandable concepts is what I find pretty appealing 🌱🌾. 
+- I like to explain things – the process of breaking down information into simpler and understandable concepts is what I find pretty appealing 🌱🌾. 
 
 More ways to know about me / connect:
 
